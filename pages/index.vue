@@ -2,6 +2,7 @@
 <div>
     <homeMainBackground></homeMainBackground>
     <homeText></homeText>
+    <homeSecondBackground></homeSecondBackground>
 </div>
 </template>
 

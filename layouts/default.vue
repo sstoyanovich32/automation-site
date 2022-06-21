@@ -9,10 +9,10 @@
                             <NuxtLink to="/">Home</NuxtLink>
                         </div>
                         <div>
-                            <NuxtLink to="/problem">The Problems</NuxtLink>
+                            <NuxtLink to="/problems">The Problems</NuxtLink>
                         </div>
                         <div>
-                            <NuxtLink to="/solution">Solutions</NuxtLink>
+                            <NuxtLink to="/solutions">Solutions</NuxtLink>
                         </div>
                     </div>
                     <div>
