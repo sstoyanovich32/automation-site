@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @layer base {
-    .subText {
+    /* .subText {
         @apply font-sans leading-loose text-xl pt-8
-    }
+    } */
 }

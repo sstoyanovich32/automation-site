@@ -3,9 +3,7 @@ const defaultTheme = require('tailwindcss/defaultTheme')
 
 module.exports = {
   theme: {
-    fontFamily: {
-      'sans': ['Proxima Nova', ...defaultTheme.fontFamily.sans],
-    }
+   
   },
   plugins: [
     // require('@tailwindcss/line-clamp')
