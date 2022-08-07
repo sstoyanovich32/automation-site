@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-purple-500 text-white font-mono">
+  <div id="who" class="bg-purple-500 text-white font-mono">
     <div class="mx-auto container py-16">
       <h1 class="font-semibold text-5xl">Who We Are</h1>
       <div class="font-mono leading-loose text-xl pt-8">
