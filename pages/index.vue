@@ -1,10 +1,12 @@
 <template>
-<div>
+  <div>
     <homeMainBackground></homeMainBackground>
     <homeText></homeText>
-    <homeSecondBackground></homeSecondBackground>
-</div>
+    <homeProblems></homeProblems>
+    <homeSolutionsMain></homeSolutionsMain>
+    <HomeTechnology></HomeTechnology>
+    <HomeContact></HomeContact>
+  </div>
 </template>
 
-<script setup>
-</script>
+<script setup></script>

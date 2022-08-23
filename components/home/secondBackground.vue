@@ -1,38 +1,25 @@
 <template>
-  <div
-    class="bg-cover bg-fixed bg-no-repeat text-white font-mono"
-    style="background-image: url('/assets/images/meeting.jpg')"
-  >
-    <div style="background-color: rgba(0, 0, 0, 0.5)">
-      <div class="container mx-auto py-20 w-2/3">
-        <h1 class="text-4xl">Lorem Ipsum</h1>
+  <div class="flex justify-center align-middle p-4 bg-black">
+    <!-- <img src="/assets/images/computer.png" alt="" /> -->
+    <div
+      class="container mx-auto py-20 flex justify-center align-center text-green-400"
+    >
+      <div>
+        <h1 class="text-4xl">Our Products and Services</h1>
         <ul class="list-disc list-inside ml-4 leading-10 mt-6 text-xl">
-          <li>Mastering a sustainable virtual care footprint</li>
-          <li>Developing your new digital front door(s)</li>
-          <li>Becoming a digital-first organization</li>
+          <li>Customized Solutions tailored to your needs</li>
+          <li>Increase and improve your Test Coverage</li>
+          <li>Simplify and reduce test maintenance</li>
+          <li>Increase flexibility and reduce redundancy in testing</li>
         </ul>
 
-        <button
-          class="border cursor-pointer uppercase hover:bg-white hover:text-black border-white rounded px-4 py-2 mt-8 font-light tracking-wide"
-        >
-          Learn More about these Solutions
-        </button>
-
-        <h1 class="text-4xl mt-12">Lorem Ipsum</h1>
+        <h1 class="text-4xl mt-12">Our Mission</h1>
         <ul class="list-disc list-inside ml-4 leading-10 mt-6 text-xl">
-          <li>Organizational assessment and redesign</li>
-          <li>Digital audit/assessment, strategy, and roadmap development</li>
-          <li>MarTech assessment and recommendations</li>
-          <li>Dashboard development and measurement strategy</li>
-          <li>Digital immersion and support</li>
-          <li>Digital technology RFP development and selection</li>
+          <li>
+            Help companies build better software through Quality Assurance
+          </li>
+          <li>Build strong long lasting relationships with our clients</li>
         </ul>
-
-        <button
-          class="border cursor-pointer uppercase hover:bg-white hover:text-black border-white rounded px-4 py-2 mt-8 font-light tracking-wide"
-        >
-          Find out about our consulting
-        </button>
       </div>
     </div>
   </div>

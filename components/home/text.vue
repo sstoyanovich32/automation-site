@@ -1,16 +1,18 @@
 <template>
   <div id="who" class="bg-purple-500 text-white font-mono">
-    <div class="mx-auto container py-16">
-      <h1 class="font-semibold text-5xl">Who We Are</h1>
+    <div class="md:mx-auto mx-8 md:container py-16">
+      <h1 class="font-semibold text-5xl reveal">Who We Are</h1>
       <div class="font-mono leading-loose text-xl pt-8">
-        <p>
+        <p class="reveal">
           As QA Automation tools have improved and the realization that
           Automation should take over repetitive tasks on software products that
           are stable and critical to companies, the demand for SDETs/QA
           Automation Engineers have increased dramatically in the last 10 years.
           We can handle any automation needs that your company might need
         </p>
-        <div class="flex my-12 mx-16 justify-between">
+        <div
+          class="grid md:grid-cols-3 grid-cols-1 md:space-x-20 space-x-0 space-y-4 md:space-y-0 my-12 justify-center place-items-center reveal text-center"
+        >
           <div>
             <div class="bg-yellow-400 rounded-full p-4 inline-block">
               <svg
@@ -26,7 +28,7 @@
               </svg>
             </div>
 
-            <p class="ml-9">CI/CD</p>
+            <p class="">CI/CD</p>
           </div>
 
           <div>
@@ -61,13 +63,14 @@
                 />
               </svg>
             </div>
-            <p class="-ml-4">End-to-End Testing</p>
+            <p class="hidden lg:block">End-to-End Testing</p>
+            <p class="lg:hidden block">E2E Testing</p>
           </div>
         </div>
       </div>
 
       <div class="font-mono leading-loose text-xl">
-        <p>
+        <p class="reveal">
           We work in the fashion preferred by the client, be it on-site,
           remotely, or a combination of both. We also work in a team fashion to
           assist the client in all areas of automation simultaneously. This
@@ -75,6 +78,15 @@
           understanding the interconnections of all functional areas of the QA
           process.
         </p>
+      </div>
+      <div class="reveal">
+        <h1 class="font-semibold text-5xl mt-12">Our Mission</h1>
+        <ul class="list-disc list-inside ml-4 leading-10 mt-6 text-xl">
+          <li>
+            Help companies build better software through Quality Assurance
+          </li>
+          <li>Build strong long lasting relationships with our clients</li>
+        </ul>
       </div>
     </div>
   </div>
