@@ -1,9 +1,11 @@
 <template>
-  <div id="solutions" class="text-blue-900 font-mono md:relative static">
+  <div id="solutions" class="text-blue-900 font-mono relative">
     <div class="md:container md:mx-auto mx-8">
       <div class="py-20 flex md:flex-row flex-col items-start">
-        <div class="md:w-1/2 w-full md:sticky static md:top-48">
-          <div class="reveal">
+        <div
+          class="md:w-1/2 w-full sticky md:top-48 bg-gray-100 top-16 z-10 py-8"
+        >
+          <div class="reveal flex md:block">
             <h1 class="md:text-7xl text-4xl font-extrabold">Solutions</h1>
             <HomeSolutionsGears></HomeSolutionsGears>
           </div>
