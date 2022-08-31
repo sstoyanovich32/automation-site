@@ -6,83 +6,83 @@
       >
       <img
           class="w-16 reveal hover:scale-125"
-          src="public/images/selenium.png"
+          src="~images/selenium.png"
           alt="Selenium"
         />
         <img
           class="w-16 reveal hover:scale-125"
-          src="public/images/python.png"
+          src="~images/python.png"
           alt="Python"
         />
         <img
           class="w-16 reveal hover:scale-125"
-          src="public/images/github.png"
+          src="~images/github.png"
           alt="Github"
         />
         <img
           class="w-16 reveal hover:scale-125"
-          src="public/images/javascript.png"
+          src="~images/javascript.png"
           alt="Javascript"
         />
         <img
           class="w-16 reveal hover:scale-125"
-          src="public/images/puppeteer.png"
+          src="~images/puppeteer.png"
           alt="Puppeteer"
         />
         
         <img
           class="w-16 reveal hover:scale-125"
-          src="public/images/html5.png"
+          src="~images/html5.png"
           alt="HTML5"
         />
         <img
           class="w-16 reveal hover:scale-125"
-          src="public/images/css.png"
+          src="~images/css.png"
           alt="CSS"
         />
         <img
           class="h-16 reveal hover:scale-125"
-          src="public/images/cypress.png"
+          src="~images/cypress.png"
           alt="Cypress.io"
         />
         <img
           class="w-16 reveal hover:scale-125"
-          src="public/images/nuxt.png"
+          src="~images/nuxt.png"
           alt="Nuxt"
         />
         <img
           class="w-16 reveal hover:scale-125"
-          src="public/images/react.png"
+          src="~images/react.png"
           alt="React"
         />
         <img
           class="w-16 reveal hover:scale-125"
-          src="public/images/node.png"
+          src="~images/node.png"
           alt="Node"
         />
         <img
           class="w-16 reveal hover:scale-125"
-          src="public/images/php.png"
+          src="~images/php.png"
           alt="PHP"
         />
         <img
           class="w-16 reveal hover:scale-125"
-          src="public/images/laravel.png"
+          src="~images/laravel.png"
           alt="Laravel"
         />
         <img
           class="w-16 reveal hover:scale-125"
-          src="public/images/vue.png"
+          src="~images/vue.png"
           alt="Vue"
         />
         <img
           class="w-16 reveal hover:scale-125"
-          src="public/images/wordpress.png"
+          src="~images/wordpress.png"
           alt="Wordpress"
         />
         <img
           class="w-16 reveal hover:scale-125"
-          src="public/images/cucumber.svg"
+          src="~images/cucumber.svg"
           alt="Cucumber"
         />
       </div>
