@@ -8,6 +8,6 @@ export default defineNuxtConfig({
         BASE_URL: process.env.BASE_URL
     },
     alias: {
-        'images': resolve(__dirname, './images'),
+        'images': resolve(__dirname, '/images'),
       }
 })
