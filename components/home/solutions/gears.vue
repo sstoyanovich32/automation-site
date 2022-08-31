@@ -76,8 +76,6 @@
 </template>
 
 <script setup>
-// TODO Figure out how duplication of two event listeners
-// TODO Add more gears
 let rotateDegrees = ref(0);
 let lastScrollTop = ref(0);
 function rotateElement() {

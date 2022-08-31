@@ -1,7 +1,12 @@
 export function useNav() {
   function scrollTo(id) {
     var el = document.querySelector(id);
-    window.scrollTo({ top: el.offsetTop - 120, behavior: "smooth" });
+    var nav = document.querySelector("#navBar");
+
+    window.scrollTo({
+      top: el.offsetTop - nav.offsetHeight,
+      behavior: "smooth",
+    });
   }
 
   return { scrollTo };
