@@ -6,10 +6,10 @@
       >
         <img
           class="w-16 reveal hover:scale-125"
-          src="~images/selenium.png"
+          :src="seleniumUrl"
           alt="Selenium"
         />
-        <img
+        <!-- <img
           class="w-16 reveal hover:scale-125"
           src="~images/python.png"
           alt="Python"
@@ -84,7 +84,7 @@
           class="w-16 reveal hover:scale-125"
           src="~images/cucumber.svg"
           alt="Cucumber"
-        />
+        /> -->
       </div>
 
       <div
@@ -113,3 +113,7 @@
     </div>
   </div>
 </template>
+
+<script setup>
+import seleniumUrl from "../../assets/images/Selenium.png";
+</script>
