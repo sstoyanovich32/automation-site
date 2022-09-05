@@ -10,7 +10,5 @@ export default defineNuxtConfig({
   alias: {
     images: resolve(__dirname, "/assets/images"),
   },
-  nitro: {
-    preset: "node-server",
-  },
+  target: "static",
 });
