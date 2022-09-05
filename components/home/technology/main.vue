@@ -32,8 +32,8 @@
         </div>
         <div class="text-xl leading-loose">
           <p class="">
-            We work with the most popular web technologies in the industry, and
-            are comfortable with the most widely used automation frameworks. No
+            We work with all major web technologies in the industry, and are
+            comfortable with the most widely used automation frameworks. No
             matter what tech stack your company utilizes, and which automation
             framework you need, we can provide top quality service If you'd like
             to see a small demo of some of our tests, you can view our
@@ -50,20 +50,20 @@
 </template>
 
 <script setup>
-import sel from "./selenium.png";
-import python from "./python.png";
-import github from "./github.png";
-import js from "./javascript.png";
-import pup from "./puppeteer.png";
-import cy from "./cypress.png";
-import html from "./html5.png";
-import css from "./css.png";
-import nuxt from "./nuxt.png";
-import react from "./react.png";
-import node from "./node.png";
-import php from "./php.png";
-import lar from "./laravel.png";
-import vue from "./vue.png";
-import wp from "./wordpress.png";
-import cuc from "./cucumber.svg";
+  import sel from "./selenium.png";
+  import python from "./python.png";
+  import github from "./github.png";
+  import js from "./javascript.png";
+  import pup from "./puppeteer.png";
+  import cy from "./cypress.png";
+  import html from "./html5.png";
+  import css from "./css.png";
+  import nuxt from "./nuxt.png";
+  import react from "./react.png";
+  import node from "./node.png";
+  import php from "./php.png";
+  import lar from "./laravel.png";
+  import vue from "./vue.png";
+  import wp from "./wordpress.png";
+  import cuc from "./cucumber.svg";
 </script>

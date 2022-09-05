@@ -4,11 +4,12 @@
       <h1 class="font-semibold text-5xl reveal">Who We Are</h1>
       <div class="font-mono leading-loose text-xl pt-8">
         <p class="reveal">
-          As QA Automation tools have improved and the realization that
-          Automation should take over repetitive tasks on software products that
-          are stable and critical to companies, the demand for SDETs/QA
-          Automation Engineers have increased dramatically in the last 10 years.
-          We can handle any automation needs that your company might need
+          Over the last decade QA Automation tools have rapidly infiltrated the
+          software products market. With the realization that Automation should
+          take over repetitive tasks on software products that are stable and
+          critical to companies, the demand for SDETs/QA Automation Engineers
+          have increased dramatically. Peritas can handle any automation systems
+          that your company might need.
         </p>
         <div
           class="grid md:grid-cols-3 grid-cols-1 md:space-x-20 space-x-0 space-y-4 md:space-y-0 my-12 justify-center place-items-center reveal text-center"
@@ -71,9 +72,9 @@
 
       <div class="font-mono leading-loose text-xl">
         <p class="reveal">
-          We work in the fashion preferred by the client, be it on-site,
-          remotely, or a combination of both. We also work in a team fashion to
-          assist the client in all areas of automation simultaneously. This
+          Clients can choose to work with our team in either a remote workflow,
+          on-site, or in a hybrid model of both. We work in a team fashion to
+          assist our clients in all areas of automation simultaneously. This
           allows for all parties involved to be in sync in terms of
           understanding the interconnections of all functional areas of the QA
           process.
@@ -83,9 +84,9 @@
         <h1 class="font-semibold text-5xl mt-12">Our Mission</h1>
         <ul class="list-disc list-inside ml-4 leading-10 mt-6 text-xl">
           <li>
-            Help companies build better software through Quality Assurance
+            Help companies build stronger software through Quality Assurance
           </li>
-          <li>Build strong long lasting relationships with our clients</li>
+          <li>Build long lasting relationships with our clients</li>
         </ul>
       </div>
     </div>
