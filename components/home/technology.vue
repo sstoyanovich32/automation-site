@@ -50,20 +50,20 @@
 </template>
 
 <script setup>
-import sel from "images/selenium.png";
-import python from "images/python.png";
-import github from "images/github.png";
-import js from "images/javascript.png";
-import pup from "images/puppeteer.png";
-import cy from "images/cypress.png";
-import html from "images/html5.png";
-import css from "images/css.png";
-import nuxt from "images/nuxt.png";
-import react from "images/react.png";
-import node from "images/node.png";
-import php from "images/php.png";
-import lar from "images/laravel.png";
-import vue from "images/vue.png";
-import wp from "images/wordpress.png";
-import cuc from "images/cucumber.svg";
+import sel from "../../assets/images/selenium.png";
+import python from "../../assets/images/python.png";
+import github from "../../assets/images/github.png";
+import js from "../../assets/images/javascript.png";
+import pup from "../../assets/images/puppeteer.png";
+import cy from "../../assets/images/cypress.png";
+import html from "../../assets/images/html5.png";
+import css from "../../assets/images/css.png";
+import nuxt from "../../assets/images/nuxt.png";
+import react from "../../assets/images/react.png";
+import node from "../../assets/images/node.png";
+import php from "../../assets/images/php.png";
+import lar from "../../assets/images/laravel.png";
+import vue from "../../assets/images/vue.png";
+import wp from "../../assets/images/wordpress.png";
+import cuc from "../../assets/images/cucumber.svg";
 </script>
