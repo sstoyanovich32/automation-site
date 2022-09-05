@@ -6,13 +6,13 @@
         If you would like to take your QA processes to the next level, we'd love
         to chat!
       </p>
-      <a class="text-2xl underline" href="#">info@tobenamed.com</a>
+      <a class="text-2xl underline" href="#">info@peritumqa.com</a>
       <div>
         <button class="mt-8 p-4 border border-white text-2xl">
           I'm Interested
         </button>
       </div>
-      <p class="text-gray-400 mt-8">©2022 Insert Company Name here</p>
+      <p class="text-gray-400 mt-8">©2022 Peritum Automation Solutions</p>
     </div>
   </div>
 </template>

@@ -4,87 +4,22 @@
       <div
         class="grid grid-cols-4 space-y-12 place-items-center reveal items-end"
       >
-        <img
-          class="w-16 reveal hover:scale-125"
-          :src="seleniumUrl"
-          alt="Selenium"
-        />
-        <!-- <img
-          class="w-16 reveal hover:scale-125"
-          src="~images/python.png"
-          alt="Python"
-        />
-        <img
-          class="w-16 reveal hover:scale-125"
-          src="~images/github.png"
-          alt="Github"
-        />
-        <img
-          class="w-16 reveal hover:scale-125"
-          src="~images/javascript.png"
-          alt="Javascript"
-        />
-        <img
-          class="w-16 reveal hover:scale-125"
-          src="~images/puppeteer.png"
-          alt="Puppeteer"
-        />
-
-        <img
-          class="w-16 reveal hover:scale-125"
-          src="~images/html5.png"
-          alt="HTML5"
-        />
-        <img
-          class="w-16 reveal hover:scale-125"
-          src="~images/css.png"
-          alt="CSS"
-        />
-        <img
-          class="h-16 reveal hover:scale-125"
-          src="~images/cypress.png"
-          alt="Cypress.io"
-        />
-        <img
-          class="w-16 reveal hover:scale-125"
-          src="~images/nuxt.png"
-          alt="Nuxt"
-        />
-        <img
-          class="w-16 reveal hover:scale-125"
-          src="~images/react.png"
-          alt="React"
-        />
-        <img
-          class="w-16 reveal hover:scale-125"
-          src="~images/node.png"
-          alt="Node"
-        />
-        <img
-          class="w-16 reveal hover:scale-125"
-          src="~images/php.png"
-          alt="PHP"
-        />
-        <img
-          class="w-16 reveal hover:scale-125"
-          src="~images/laravel.png"
-          alt="Laravel"
-        />
-        <img
-          class="w-16 reveal hover:scale-125"
-          src="~images/vue.png"
-          alt="Vue"
-        />
-        <img
-          class="w-16 reveal hover:scale-125"
-          src="~images/wordpress.png"
-          alt="Wordpress"
-        />
-        <img
-          class="w-16 reveal hover:scale-125"
-          src="~images/cucumber.svg"
-          alt="Cucumber"
-        /> -->
+        <img class="w-16 hover:scale-125" :src="sel" alt="Selenium" />
+        <img class="w-16 hover:scale-125" :src="python" alt="Python" />
+        <img class="w-16 hover:scale-125" :src="github" alt="Github" />
+        <img class="w-16 hover:scale-125" :src="js" alt="Javascript" />
+        <img class="w-16 hover:scale-125" :src="pup" alt="Puppeteer" />
+        <img class="w-16 hover:scale-125" :src="html" alt="HTML5" />
+        <img class="w-16 hover:scale-125" :src="css" alt="CSS" />
+        <img class="h-16 hover:scale-125" :src="cy" alt="Cypress.io" />
+        <img class="w-16 hover:scale-125" :src="nuxt" alt="Nuxt" />
+        <img class="w-16 hover:scale-125" :src="react" alt="React" />
+        <img class="w-16 hover:scale-125" :src="node" alt="Node" />
+        <img class="w-16 hover:scale-125" :src="php" alt="PHP" />
+        <img class="w-16 hover:scale-125" :src="lar" alt="Laravel" />
+        <img class="w-16 hover:scale-125" :src="vue" alt="Vue" />
+        <img class="w-16 hover:scale-125" :src="wp" alt="Wordpress" />
+        <img class="w-16 hover:scale-125" :src="cuc" alt="Cucumber" />
       </div>
 
       <div
@@ -115,5 +50,20 @@
 </template>
 
 <script setup>
-import seleniumUrl from "../../assets/images/Selenium.png";
+import sel from "../../assets/images/selenium.png";
+import python from "../../assets/images/python.png";
+import github from "../../assets/images/github.png";
+import js from "../../assets/images/javascript.png";
+import pup from "../../assets/images/puppeteer.png";
+import cy from "../../assets/images/cypress.png";
+import html from "../../assets/images/html5.png";
+import css from "../../assets/images/css.png";
+import nuxt from "../../assets/images/nuxt.png";
+import react from "../../assets/images/react.png";
+import node from "../../assets/images/node.png";
+import php from "../../assets/images/php.png";
+import lar from "../../assets/images/laravel.png";
+import vue from "../../assets/images/vue.png";
+import wp from "../../assets/images/wordpress.png";
+import cuc from "../../assets/images/cucumber.svg";
 </script>

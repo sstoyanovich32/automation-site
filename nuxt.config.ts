@@ -7,8 +7,8 @@ export default defineNuxtConfig({
   publicRuntimeConfig: {
     BASE_URL: process.env.BASE_URL,
   },
-  alias: {
-    images: resolve(__dirname, "/assets/images"),
-  },
+//   alias: {
+//     images: resolve(__dirname, "/assets/images"),
+//   },
   target: "static",
 });
