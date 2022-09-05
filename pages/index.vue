@@ -4,7 +4,7 @@
     <homeText></homeText>
     <homeProblems></homeProblems>
     <homeSolutionsMain></homeSolutionsMain>
-    <HomeTechnology></HomeTechnology>
+    <HomeTechnologyMain></HomeTechnologyMain>
     <HomeContact></HomeContact>
   </div>
 </template>
